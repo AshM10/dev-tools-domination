@@ -22,6 +22,8 @@ This is a solution to the [14 Must Know Dev Tools Tricks](https://javascript30.c
 
 ### Screenshot
 
+<img width="330" alt="Screen Shot 2022-09-30 at 12 57 05 PM" src="https://user-images.githubusercontent.com/89284873/193330075-bd336daa-a9f1-4a2c-b079-6d42a8c0a1e6.png">
+
 ### Links
 
 - Solution URL: [GitHub](https://github.com/AshM10/dev-tools-domination)
